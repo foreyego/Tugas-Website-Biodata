@@ -1,0 +1,57 @@
+body{
+	font-family: poppins;
+	font-size: 13pt;
+    background-color: #FFEAA7;
+}
+
+h2{
+    color: #FF6868;
+}
+
+th{
+	text-align: left;
+}
+ 
+img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+ 
+.keseluruhan{
+    width: 60%;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+ 
+.judul{
+	text-align: center;
+    color: #F57D1F;
+    background: #FFBB64;
+}
+ 
+.bagian{
+	overflow: hidden;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px; 
+    margin-bottom: 20px;
+}
+
+.bagian:last-child {
+    border-bottom: none; 
+}
+
+ 
+.kiri{
+	width: 20%;
+	float: left;
+}
+ 
+.kanan{
+	width: 70%;
+	padding:0px 20px;	
+	float: left;
+}
+ 
